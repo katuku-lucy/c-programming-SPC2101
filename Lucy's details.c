@@ -1,4 +1,3 @@
-//simple c program 
 /*
 Name:Katuku Muthami 
 
