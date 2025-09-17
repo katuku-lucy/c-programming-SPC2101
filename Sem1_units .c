@@ -1,4 +1,3 @@
-//simple c program 
 /*
 Name :Katuku muthami
 Reg :CT100/G/26212/25
