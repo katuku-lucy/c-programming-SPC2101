@@ -1,6 +1,6 @@
 /*
-Name: Paul Sinyati Lekasuiyan
-Reg No: PA106/G/28929/25
+Name: Katuku Muthami 
+Reg No: CT100/G/26212/25
 Program: 2D Array (Room Occupancy)
 */
 
